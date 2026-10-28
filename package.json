@@ -1,0 +1,13 @@
+{
+  "name": "presence-qr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Présence des travailleurs avec code QR",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "jsqr": "^1.4.0",
+    "qrcode": "^1.5.3"
+  }
+}
